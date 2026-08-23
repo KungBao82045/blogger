@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Project</title>
-    <link>http://localhost:1313/blogger/tags/</link>
+    <link>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/</link>
     <description>Recent content in Tags on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:39:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogger/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Untagged</title>
-      <link>http://localhost:1313/blogger/tags/untagged/</link>
-      <pubDate>Sat, 22 Aug 2026 21:39:48 +0000</pubDate>
-      <guid>http://localhost:1313/blogger/tags/untagged/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue</title>
-      <link>http://localhost:1313/blogger/tags/blue/</link>
+      <link>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/blogger/tags/blue/</guid>
+      <guid>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>http://localhost:1313/blogger/tags/green/</link>
+      <link>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/blogger/tags/green/</guid>
+      <guid>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>http://localhost:1313/blogger/tags/red/</link>
+      <link>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/blogger/tags/red/</guid>
+      <guid>https://studious-doodle-jpjqqgr95962pggw.github.dev/tags/red/</guid>
       <description></description>
     </item>
   </channel>
