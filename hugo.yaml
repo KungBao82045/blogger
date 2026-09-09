@@ -1,5 +1,5 @@
 baseURL: "https://kungbao82045.github.io/blogger/"
-title: ExampleSite
+title: KungBao
 paginate: 5
 theme: PaperMod
 
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: KungBao
+  description: "KungBao description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -57,7 +57,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: KungBao
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
